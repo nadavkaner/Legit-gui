@@ -9,3 +9,4 @@ Built with Electron and React.
 - Easy to resolve conflicts
 - Support sync all cloned repo's between machines
 - Integrated Git bash inside the app (For users that wants both gui and bash in one place)
+- Rich keyboard shortcuts
